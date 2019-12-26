@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![CKAD Badge](https://miro.medium.com/max/4052/1*SAm8bL78n0uQl8DCbKipmA.png)
 
